@@ -1,0 +1,25 @@
+/* pages/01/01.wxss */
+.info-name{
+  width: 150px;
+  height: 100px;
+  background-color: hotpink;
+  color: white;
+  text-align: center;
+  line-height: 100px;
+  font-size: 20px;
+  margin: 50px auto;
+}
+button{
+  width: 100px;
+  height: 50px;
+  background-color: gray;
+}
+navigator{
+  width: 100px;
+  height: 30px;
+  background-color: rebeccapurple;
+  text-align: center;
+  line-height: 30px;
+  color: white;
+  font-size: 14px;
+}

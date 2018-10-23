@@ -1,0 +1,5 @@
+<!--pages/01/01.wxml-->
+<view class='info-name'> Hello {{name}}! </view>
+<button bindtap="changeName"> Click me! </button>
+<navigator url="/pages/02/02">去第二页</navigator>
+

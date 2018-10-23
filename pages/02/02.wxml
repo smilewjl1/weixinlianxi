@@ -1,0 +1,5 @@
+<!--pages/02/02.wxml-->
+<view wx:for="{{carList}}">
+  <image src='{{item.path}}'></image>
+  <text>{{item.name}}</text>
+</view>
